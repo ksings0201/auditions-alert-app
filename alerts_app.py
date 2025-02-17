@@ -21,6 +21,16 @@ websites = [
         "old_content_file": "old_content_auditions_marinshakes.txt"
     },
     {
+        "name": "Hillbarn Theatre",
+        "url": "https://www.hillbarntheatre.org/work-with-us/",
+        "old_content_file": "old_content_auditions_hillbarn.txt"
+    },
+     {
+        "name": "Center Repertory Theatre",
+        "url": "https://www.centerrep.org/get-involved/audition",
+        "old_content_file": "old_content_auditions_centerrep.txt"
+    },
+    {
         "name": "Theatreworks",
         "url": "https://theatreworks.org/work-with-us/auditions/",
         "old_content_file": "old_content_auditions_theatreworks.txt"
