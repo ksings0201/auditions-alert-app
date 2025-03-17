@@ -34,6 +34,16 @@ websites = [
         "name": "Theatreworks",
         "url": "https://theatreworks.org/work-with-us/auditions/",
         "old_content_file": "old_content_auditions_theatreworks.txt"
+    },
+    {
+        "name": "SF Playhouse",
+        "url": "https://www.sfplayhouse.org/sfph/get-involved/casting/",
+        "old_content_file": "old_content_auditions_sfplayhouse.txt"
+    },
+    {
+        "name": "Aurora",
+        "url": "https://www.auroratheatre.org/auditions-submissions",
+        "old_content_file": "old_content_auditions_aurora.txt"
     }
 ]
 
